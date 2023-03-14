@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/basic-bar-chart/static/css/main.3793d4c3.css",
-    "main.js": "/basic-bar-chart/static/js/main.2a32be46.js",
+    "main.css": "/basic-bar-chart/static/css/main.b59c621c.css",
+    "main.js": "/basic-bar-chart/static/js/main.04144cab.js",
     "static/js/787.abd26edf.chunk.js": "/basic-bar-chart/static/js/787.abd26edf.chunk.js",
+    "static/media/github.svg": "/basic-bar-chart/static/media/github.c21dc2c952a96175dc43.svg",
     "index.html": "/basic-bar-chart/index.html",
-    "main.3793d4c3.css.map": "/basic-bar-chart/static/css/main.3793d4c3.css.map",
-    "main.2a32be46.js.map": "/basic-bar-chart/static/js/main.2a32be46.js.map",
+    "static/media/table-regular.svg": "/basic-bar-chart/static/media/table-regular.a7f1b37329496e519047.svg",
+    "main.b59c621c.css.map": "/basic-bar-chart/static/css/main.b59c621c.css.map",
+    "main.04144cab.js.map": "/basic-bar-chart/static/js/main.04144cab.js.map",
     "787.abd26edf.chunk.js.map": "/basic-bar-chart/static/js/787.abd26edf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3793d4c3.css",
-    "static/js/main.2a32be46.js"
+    "static/css/main.b59c621c.css",
+    "static/js/main.04144cab.js"
   ]
 }
