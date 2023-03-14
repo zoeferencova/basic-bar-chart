@@ -10,6 +10,8 @@ export const useData = () => {
   useEffect(() => {
     const row = (d) => {
       d.Population = +d['2020'] * 1000;
+      if (d.Country === "United States of America") d.Country = "USA"
+      if (d.Country === "Russian Federation") d.Country = "Russia"
       return d;
     };
     csv(csvUrl, row).then((data) => {
